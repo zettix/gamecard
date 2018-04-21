@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # vim:sm:ai:et:syntax=python:ts=2:
+# Copyright 2018 Sean Brennan
+# Licensed under the Apache License, Version 2.0
 
 import os
 import sys
