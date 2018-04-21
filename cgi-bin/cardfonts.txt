@@ -1,0 +1,6 @@
+RIKY2vamp.ttf, Scary Caligraphic
+DejaVuSans-Bold.ttf, Basic sans bold normal
+AbductionII.ttf, wide. hi tech
+CelesteNormal.ttf, whispy cursive
+CelticNormal.ttf, calligraphic wide
+livingbynumbers.ttf, scary thin
